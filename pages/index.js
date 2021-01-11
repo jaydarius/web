@@ -14,7 +14,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>My art mediums: Software Dev, Musicianship, Word. I work at LogicMonitor as a Solutions Engineer. </p>
 
-        <p>Hey, Know yourself.</p>
+        <p>Hey, Know Yourself.</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Posts</h2>
