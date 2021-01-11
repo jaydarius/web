@@ -12,9 +12,9 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>My art is design and software development. I work at LogicMonitor as a Solutions Engineer. </p>
+        <p>My art mediums: Software Dev, Musicianship, Word. I work at LogicMonitor as a Solutions Engineer. </p>
 
-        <p>My motto: Know yourself.</p>
+        <p>Hey, Know yourself.</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Posts</h2>
