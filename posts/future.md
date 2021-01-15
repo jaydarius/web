@@ -7,13 +7,13 @@ So you wanna write about the future? Consider this fundamental stage...
 
 Those advanced people have always learned some things and have forgotten others. 
 
-Warhammer 40000 is a stellar example of technologies learned then lost in the deca-millenia of humanity. The destruction of their knowledge has its vehicle in war. This setting and many other future stories contain one binary condition of humanity within us today: the aggressor and the defender.  Sometimes the Future us gets over themselves and band together against aliens. Sometimes the aliens win, such as 4D creatures in Wright's Awake in the Nightlands. 
+Warhammer 40000 is a stellar example of technologies learned then lost in the deca-millenia of humanity. The destruction of their knowledge has its vehicle in war. This setting and many other future stories contain one binary condition of humanity within us today: the aggressor and the defender.  Sometimes the Future Us gets over themselves and band together against aliens. Sometimes the aliens win, such as 4D creatures in Wright's Awake in the Nightlands. 
 
-As a writer, you can cut millenia of progress because of conflict and the ignorance that follows. Ignorance can be willful on part of the suppressor and, as expected, not so on part of the oppressed. You can then create all types of fictional worlds that are slightly ignorant in one technology tree so you can mimic today in many ways. See Lucas' Star Wars galaxy is believable, with its anachronisms, because progress has been impeded in ma myriad of way; one of them through a charmingly bureacratic Empire.
+As a writer, you can cut millenia of progress because of conflict and the ignorance that follows. Ignorance can be willful on part of the suppressor and, as expected, not so on part of the oppressed. You can then create all types of fictional worlds that are slightly ignorant in one technology tree so you can mimic today in many ways. See that Lucas' Star Wars galaxy is believable, with its anachronisms, because progress has been impeded in a myriad of way; notably through a charmingly bureacratic Empire.
 
-As seen in the recently release high-production film, Tenet, stories of the future contain a level of progress, and novelty, that today's people want. We are keen on becoming conscious of the problems our descendants will face. And then we want to see how they can be solved. 
+As seen in the recent high-production film, Tenet, stories of the future contain a level of progress, and novelty, that today's people want. We are keen on becoming conscious of the problems our descendants will face. And then we want to see how they can be solved. 
 
-It is inevitable that a new solution will beget a new problem. The qualia of such declaration is time, soul, and death.
+It is inevitable that a new solution will beget a hydra of unforseen problems. The qualia  to examine of behind such a declaration is time, soul, and death. Let's start with time and how the Science Fiction's Psychic Syndrome handles that. 
 
 # The Psychic Syndrome
 Science fiction presents Psychic Ability in believable ways: from Foundation's Magnifico to the Star Wars Jedi. What explains this trope?
