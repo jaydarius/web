@@ -12,7 +12,7 @@ The King lay dead after heroically slaying the Balrog Lord.
 Enter Tuor to that scene...
 
 # Maeglin the Betrayer
-Gothmog's smoldering body lay on Turgon. His golden javelin piercing through its back. Tuor pulled out his Silome from the Lesser Balrog and turned to the wretched hulk of its master. The feet of his King were sticking out from under it. Grief's pain raced through him as the thought of his Majesty's body leaving this world. Tuor started toward the mass when he heard a woman's shriek. His. 
+Gothmog's smoldering body lay on Turgon. His golden javelin piercing through its back. Tuor pulled out his Silome from the Lesser Balrog and turned to the wretched hulk of its master. The feet of his King were sticking out from under it. Grief enveloped him at the thought of his Majesty's body leaving this world. Tuor started toward the mass when he heard a woman's shriek. His. 
 He glanced about, as Glorfindel appeared on the wall and pointed at the Fountain's Gate. "Maeglin goes!" Glorfindel cried and a mighty Orc descended upon him. Alone, Tuor ran.
 
 Yet the Gate was blocked at the other for the walls were heavily wrecked by the dragons. Maeglin could only make for the battlements to get out of Gondolin. 
