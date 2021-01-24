@@ -1,6 +1,6 @@
 ---
 title: 'One of the Most Metal Albums You'll Ever Read'
-date: '2021-01-21'
+date: '2021-01-24'
 ---
 
 # The Thrill of the Night Lands
