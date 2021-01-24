@@ -1,5 +1,5 @@
 ---
-title: 'One of the Most Metal Albums You'll Ever Read'
+title: "One of the Most Metal Albums You'll Ever Read"
 date: '2021-01-24'
 ---
 
