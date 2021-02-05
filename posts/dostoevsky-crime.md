@@ -3,7 +3,7 @@ title: 'The Revival of Rodion'
 date: '2021-01-31'
 ---
 
-In part two's scene at the Crystal Palace, we are witness to Rodya talking in a collected, civilized manner to an alarmed Zamyotov. But our protagonist's conversational approach is still tinged with derisive mockery referring to his acquaintance as "my littler sparrow." This sudden turn of character is astounding, and warrants further inspection into the author's genius execution of Rodya's development.
+In part two's scene at the Crystal Palace, we are witness to Rodya talking in a collected, civilized manner to an alarmed Zamyotov. But our protagonist's conversational approach is still tinged with derisive mockery referring to his acquaintance as "my little sparrow." This sudden turn of character is astounding, and warrants further inspection into the author's genius execution of Rodya's development.
 
 150 pages have passed where Dostoevsky presented Rodya from his livid state in festering in destitute living quarters. In part two, we are signaled that his physical and mental revival is caused by two mundane things: a friend and a meal.
 
