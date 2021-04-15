@@ -12,7 +12,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>My art mediums: Software Dev, Musicianship, Word. I work at LogicMonitor as a Solutions Engineer. </p>
+        <p>My art mediums: Software Dev, Musicianship, Word. Engineer in CyberSecurity. </p>
 
         <p>Hey, Know Yourself.</p>
       </section>
